@@ -56,3 +56,33 @@
 <h4>
 
 - 🛠️ For decoration customization, replace the ModSkin model with the decoration model using the following path: `Resources/ver/Prefab_Characters/Actor_hero_id_Infos.pkg.bytes/Prefab_Hero/hero_id_foldername`
+
+<div align="center">
+    <img src="https://cdn.phototourl.com/free/2026-06-17-5467d3f9-e2f8-4d69-9f2f-943c1453094d.jpg" width="700" alt="ArenaOfValor WarningMessage" />
+</div>
+<h4>
+
+- ✨ What files do I need to prepare for creating a skin mod? Here's a list
+
+```Resources/
+│   ├── Ages
+│   │   └── Prefab_Characters
+│   │       └── Prefab_Hero
+│   │           Actor_Actions.pkg.bytes
+│   │           CommonActions.pkg.bytes
+│   ├── Databin
+│   │   └── Client
+│   │       ├── Actor
+│   │       │   heroSkin.bytes
+│   │       │   organSkin.bytes
+│   │       ├── Skill
+│   │       │   liteBulletCfg.bytes
+│   │       │   skillmark.bytes
+│   │       └── Sound
+│   │           BattleBank.bytes
+│   │           ChatSound.bytes
+│   │           HeroSound.bytes
+│   │           LobbyBank.bytes
+│   │           LobbySound.bytes
+│   └── Prefab_Characters
+│       Actor_Infos.pkg.bytes```
