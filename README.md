@@ -10,5 +10,5 @@
 
 # Supported systems
 - [x] iOS
-- [ ] Windows
-- [ ] Android
+- [x] Windows
+- [x] Android
