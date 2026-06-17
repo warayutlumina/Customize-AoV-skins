@@ -9,6 +9,6 @@
 
 
 # Supported systems
-> [×] iOS
-> [✓] Windows
-> [✓] Android
+- [×] iOS
+- [✓] Windows
+- [✓] Android
