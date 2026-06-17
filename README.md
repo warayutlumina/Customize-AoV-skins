@@ -24,6 +24,6 @@
 - [x] Background Skin
 - [x] Skin Voice
 - [x] Opening Sound
-- [ ] Lobby Skin
+- [x] Lobby Skin
 - [x] Animation Voices
 - [x] Skin Model
