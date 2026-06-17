@@ -3,4 +3,5 @@
     <h2>Customize_AoV-skin</h2>
 </div>
 
-> [!CAUTION]
+> [MAIN]
+> Skin customization for the game "Arena of Valor" may be updated continuously over time. Internal data may remain accessible and can be modified, updated, or adjusted at any time. Some content or information may not always receive updates immediately or may become outdated. The project is still under development and improvements may continue in the future.
