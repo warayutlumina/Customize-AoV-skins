@@ -39,7 +39,7 @@
 
 - 🗑️ To fix the [Network Error] issue, go to`[ Android/Data/com.garena.game.kgth/files/Resources]`, delete the folder/files used for ModSkin, then open the game and download the resources again. After that, you should be able to continue playing. If you place files such as [Ages AssetRefs Databin Prefab_Characters] over the ModSkin files and enter the game, the message “Network Error” will still appear. The recommended solution is to delete the entire Resources folder and let the game download fresh resources again.
 
-# GESTURE ANIMATION
+# ⭐ GESTURE ANIMATION
 
 <div align="center">
     <img src="https://cdn.phototourl.com/free/2026-06-17-db7f565b-aafe-4c28-bc8c-4ef3aad2e3db.jpg" width="700" alt="ArenaOfValor WarningMessage" />
@@ -48,3 +48,11 @@
 
 - 🛠️ Editing hero animations into modified skins using any version of `hex editor`, depending on which version is compatible with your device. Animation file path: `Resources/ver/Databin/Client/Motion/ResSkinMotionBaseCfg.bytes`
 
+# HIGH-LEVEL SKIN MODEL DECORATIONS
+
+<div align="center">
+    <img src="https://cdn.phototourl.com/free/2026-06-17-419f9e39-4ab2-4c70-8de2-f8c058171609.jpg" width="700" alt="ArenaOfValor WarningMessage" />
+</div>
+<h4>
+
+- 🛠️ For decoration customization, replace the ModSkin model with the decoration model using the following path: `Resources/ver/Prefab_Characters/Actor_hero_id_Infos.pkg.bytes/Prefab_Hero/hero_id_foldername`
