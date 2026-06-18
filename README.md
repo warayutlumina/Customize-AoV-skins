@@ -75,6 +75,11 @@
 │   │       └── Prefab_Hero
 │   │           Actor_heroid_Actions.pkg.bytes
 │   │           CommonActions.pkg.bytes
+│   ├
+│   ├── AssetRefs
+│   │   └── Hero
+│   │       ├── heroid_AssetRef.bytes
+│   ├
 │   ├── Databin
 │   │   └── Client
 │   │       ├── Actor
@@ -90,7 +95,8 @@
 │   │           LobbyBank.bytes
 │   │           LobbySound.bytes
 │   └── Prefab_Characters
-│       Actor_heroid_Infos.pkg.bytes
+│   │   └── Actor_heroid_Infos.pkg.bytes
+│   │
 ```
 
 
