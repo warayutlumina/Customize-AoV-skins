@@ -56,7 +56,7 @@
 </div>
 <h4>
 
-- 🛠️ For decoration customization, replace the ModSkin model with the decoration model using the following path: `Resources/ver/Prefab_Characters/Actor_hero_id_Infos.pkg.bytes/Prefab_Hero/hero_id_foldername`
+- 🛠️ For decoration customization, replace the ModSkin model with the decoration model using the following path: `Resources/ver/Prefab_Characters/Actor_heroid_Infos.pkg.bytes/Prefab_Hero/hero_id_foldername`
 
 # ✨ What files do I need to prepare for creating a skin mod? Here's a list
 
@@ -71,7 +71,7 @@
 │   ├── Ages
 │   │   └── Prefab_Characters
 │   │       └── Prefab_Hero
-│   │           Actor_Actions.pkg.bytes
+│   │           Actor_heroid_Actions.pkg.bytes
 │   │           CommonActions.pkg.bytes
 │   ├── Databin
 │   │   └── Client
@@ -88,7 +88,7 @@
 │   │           LobbyBank.bytes
 │   │           LobbySound.bytes
 │   └── Prefab_Characters
-│       Actor_Infos.pkg.bytes
+│       Actor_heroid_Infos.pkg.bytes
 ```
 
 
